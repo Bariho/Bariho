@@ -8,7 +8,7 @@
  - 👨‍💻 CTF Player en plataformas como HTB/THM
  - 📚 Preparándome para el eJPT
 </p>
-<p align = "right">
+<p align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMoreno99&layout=compact&langs_count=7&theme=highcontrast" width = 400>
 </p>
 
