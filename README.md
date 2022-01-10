@@ -3,7 +3,7 @@
 -----
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ARMoreno99&show_icons=true&theme=highcontrast" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMoreno99&layout=compact&langs_count=7&theme=merko" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMoreno99&layout=compact&langs_count=7&theme=highcontrast" width = 400>
 </p>
 
 
