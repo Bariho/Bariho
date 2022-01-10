@@ -1,8 +1,8 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMoreno99&layout=compact&langs_count=7&theme=dracula"/>
+  #<img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMoreno99&layout=compact&langs_count=7&theme=dracula" width = 400>
 </p>
 
 
