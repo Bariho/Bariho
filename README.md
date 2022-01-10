@@ -4,10 +4,9 @@
 
 ----------------------------------------------
 <p align = "left">
-  
-  
-  👨‍💻 CTF Player en plataformas como HTB/THM
-  📚 Preparándome para el eJPT
+
+ - 👨‍💻 CTF Player en plataformas como HTB/THM
+ - 📚 Preparándome para el eJPT
   
 </p>
 <p align = "right">
