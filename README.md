@@ -3,9 +3,11 @@
   <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50"'>
 
 ----------------------------------------------
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ARMoreno99&show_icons=true&theme=highcontrast" width = 400>
+<p align = "left">
+  Hello
+</p>
+<p align = "right">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMoreno99&layout=compact&langs_count=7&theme=highcontrast" width = 400>
 </p>
 
