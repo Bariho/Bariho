@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenido!+Soy+Alejandro)](https://git.io/typing-svg)
-
+<p align = "center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenido!+Soy+Alejandro)](https://git.io/typing-svg)
+</p>
 ----------------------------------------------
 
 <p align = "center">
