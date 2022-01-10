@@ -1,5 +1,6 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenido!+Soy+Alejandro)](https://git.io/typing-svg)
+  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='80"'>
 
 ----------------------------------------------
 
