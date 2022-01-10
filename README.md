@@ -16,6 +16,8 @@
   <a href="https://www.linkedin.com/in/alerodriguezm99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://alerodriguezm99.gitbook.io/blog-hacking/" target="_blank"><img src="https://img.shields.io/badge/-gitbook-%230077B5?style=for-the-badge&logo=gitbook&logoColor=white" target="_blank"></a>  
   
+  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+  
 ----------------------------------------------
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
