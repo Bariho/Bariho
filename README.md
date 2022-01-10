@@ -4,7 +4,8 @@
 
 ----------------------------------------------
 <p align = "left">
-  
+ 
+ - 📕 AUTO-DIDACTA HACKING ÉTICO
  - 👨‍💻 CTF Player en plataformas como HTB/THM
  - 📚 Preparándome para el eJPT
 </p>
