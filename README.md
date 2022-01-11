@@ -1,7 +1,7 @@
 <img align='left' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" >
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F728&lines=%C2%A1BIENVENIDO!++Soy+Alejandro)](https://git.io/typing-svg)
-  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50"'>
+  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='70"'>
   
 ----------------------------------------------
 
