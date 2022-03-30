@@ -11,13 +11,15 @@
  - 📚 PREPARACIÓN EN CURSO: LPI ESSENTIAL
  - 📑 CERTIFICACIONES PENSADASA PARA UN FUTUTO: eJPT - OSCP
 </p>
-
+----------------------------------------------
 <p>
   <b>CERTIFICACIONES:</b>
  <!-- <p align = "left">
     <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" /> <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" /> <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" />
 </p> -->
 
+----------------------------------------------
+⚔ Preparandome con @MBaeza00 como Pentester.
 ----------------------------------------------
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
