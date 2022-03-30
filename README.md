@@ -18,9 +18,6 @@
  <!-- <p align = "left">
     <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" /> <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" /> <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" />
 </p> -->
-<p>
-  <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" align ="left" /><img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" align ="center" />
-</p>
 
 ----------------------------------------------
 
