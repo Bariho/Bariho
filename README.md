@@ -32,5 +32,5 @@
 
 
 <p align = "center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Contributions" width="800px" height="112px" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 </p>
