@@ -22,8 +22,8 @@
 </p> -->
 
   
- <a href="https://app.hackthebox.com/users/386047" target="_blank"><img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/31746234.png" width="50px" height="50" target="_blank"></a>
- <a href="https://tryhackme.com/p/ErMechas01" target="_blank"><img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/31746234.png" width="50px" height="50" target="_blank"></a>
+ <a href="https://app.hackthebox.com/users/386047" target="_blank"><img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/logo600.png" width="200px" height="60" target="_blank"></a>
+ <a href="https://tryhackme.com/p/ErMechas01" target="_blank"><img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/4052225_f0a66854-a68c-4474-9cb7-7b5e272c4469_250x250%402x.png" width="150px" height="90" target="_blank"></a>
   
 
 ----------------------------------------------
