@@ -35,9 +35,3 @@
 <p align = "center">
   <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="800px" height="112px" />
 </p>
-
-
-
-<p align = "center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
-</p>
