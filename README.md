@@ -7,8 +7,9 @@
 <p align = "left">
  
  - 📕 AUTO-DIDACTA HACKING ÉTICO
- - 👨‍💻 CTF Player en plataformas como HTB/THM
+ - 👨‍💻 CTF Player
  - 📚 PREPARACIÓN EN CURSO: LPI ESSENTIAL
+ - 📑 CERTIFICACIONES PENSADASA PARA UN FUTUTO: eJPT - OSCP
 </p>
 
 <p>
