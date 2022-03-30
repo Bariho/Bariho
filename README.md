@@ -25,7 +25,7 @@
  <a href="https://app.hackthebox.com/users/386047" target="_blank"><img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/31746234.png" width="50px" height="50" target="_blank"></a>
  <a href="https://tryhackme.com/p/ErMechas01" target="_blank"><img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/31746234.png" width="50px" height="50" target="_blank"></a>
   
-https://tryhackme.com/p/ErMechas01
+
 ----------------------------------------------
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
