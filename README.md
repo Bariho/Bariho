@@ -43,4 +43,4 @@
   <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="800px" height="112px" />
 </p>
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://random-memer.herokuapp.com/' title="Meme">
