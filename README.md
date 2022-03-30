@@ -2,10 +2,8 @@
 <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/banner.png" >
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F728&lines=%C2%A1BIENVENIDO++A+MI+GITHUB!)](https://git.io/typing-svg)
-  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'>
-
+  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='30'>
 ----------------------------------------------
-
 <p align = "left">
  
  - 📕 AUTO-DIDACTA HACKING ÉTICO
