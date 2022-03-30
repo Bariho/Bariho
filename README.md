@@ -16,14 +16,9 @@
 <p>
   CERTIFICACIONES:
   <p align = "left">
-    <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" />
+    <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" /> <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" /> <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" />
 </p>
-<p align = "center">
-    <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" />
-</p>
-<p align = "right">
-    <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" />
-</p>
+
 
 ----------------------------------------------
 
