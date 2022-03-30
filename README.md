@@ -22,9 +22,7 @@
     <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" /> <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" /> <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="60px" />
 </p> -->
 
-----------------------------------------------
-  ⚔ Preparandome con <a hrf="https://github.com/MBaeza00">@MBaeza00</a> como Pentester.
-  
+ 
 ----------------------------------------------
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
