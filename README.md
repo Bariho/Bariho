@@ -29,10 +29,12 @@
    <a href="https://www.linkedin.com/in/alerodriguezm99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://alerodriguezm99.gitbook.io/blog-hacking/" target="_blank"><img src="https://img.shields.io/badge/-gitbook-%230077B5?style=for-the-badge&logo=gitbook&logoColor=white" target="_blank"></a>  
 </p>
- 
-----------------------------------------------
 <p align = "center">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
+</p>
+ 
+----------------------------------------------
+
 
 <p align = "center">
   <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="800px" height="112px" />
