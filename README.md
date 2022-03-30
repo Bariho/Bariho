@@ -16,7 +16,7 @@
 <p>
   CERTIFICACIONES:
   <p align = "left">
-    <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="80px" />
+    <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="80px" height="70px" />
 </p>
 
 ----------------------------------------------
