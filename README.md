@@ -21,6 +21,11 @@
     <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/LinuxEssentials-Large_0.png" width="65px" height="60px" /><img  src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="85px" height="60px" /> <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/oscp-acclaim.png" width="65px" height="60px" />
 </p> -->
 
+  
+ <a href="https://app.hackthebox.com/users/386047" target="_blank"><img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/31746234.png" width="50px" height="50" target="_blank"></a>
+ <a href="https://tryhackme.com/p/ErMechas01" target="_blank"><img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/31746234.png" width="50px" height="50" target="_blank"></a>
+  
+https://tryhackme.com/p/ErMechas01
 ----------------------------------------------
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
@@ -29,7 +34,7 @@
 
 <p align = "center">
    <a href="https://www.linkedin.com/in/alerodriguezm99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://alerodriguezm99.gitbook.io/blog-hacking/" target="_blank"><img src="https://img.shields.io/badge/-gitbook-%230077B5?style=for-the-badge&logo=gitbook&logoColor=white" target="_blank"></a>  
+   <a href="https://alerodriguezm99.gitbook.io/blog-hacking/" target="_blank"><img src="https://img.shields.io/badge/-gitbook-%230077B5?style=for-the-badge&logo=gitbook&logoColor=white" target="_blank"></a>
 </p>
 <p align = "center">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
