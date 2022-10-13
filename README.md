@@ -10,7 +10,6 @@
  - 📕 AUTODIDACTA HACKING ÉTICO
  - 👨‍💻 CTF Player
  - 📚 PREPARACIÓN EN CURSO: OSCP
- - 📑 CERTIFICACIONES PENSADASA PARA UN FUTUTO: OSCP
 </p>
 
 ----------------------------------------------
