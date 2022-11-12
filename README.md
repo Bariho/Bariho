@@ -25,7 +25,7 @@
   <b> PERFILES CTF: </b>
   
  <a href="https://app.hackthebox.com/profile/386047" target="_blank"><img src="http://www.hackthebox.eu/badge/image/386047" alt="Hack The Box">
-[![tryhackme](<script src="https://tryhackme.com/badge/96154"></script>)][tryhackme]
+ <img src="https://tryhackme.com/badge/96154" alt="TryHackMe">
 
 
 
