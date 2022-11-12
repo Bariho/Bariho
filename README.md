@@ -37,6 +37,7 @@
 </p>
 <p align = "center">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
+   [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </p>
 
 ----------------------------------------------
