@@ -38,8 +38,9 @@
 <p align = "center">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
 </p>
+<p align = "center"> 
 <img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103)" alt="Contributions"
-
+</p>
 ----------------------------------------------
 
 <p align = "center">
