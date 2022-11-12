@@ -41,6 +41,7 @@
 <p align = "center"> 
 <img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103)" alt="Contributions"
 </p>
+  
 ----------------------------------------------
 
 <p align = "center">
