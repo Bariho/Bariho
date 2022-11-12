@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
 </p>
 <p align = "center"> 
-<img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103)" alt="Contributions" />
+<img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103)" alt="Contributions" border-radius= 15px; />
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
 </p>
   
