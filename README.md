@@ -6,10 +6,8 @@
 ----------------------------------------------
 
 <p align = "left">
- 
- - 📕 AUTODIDACTA HACKING ÉTICO
- - 👨‍💻 CTF Player
- - 📚 PREPARACIÓN EN CURSO: OSCP
+ - 📕 AUTODIDACTA
+ - 📚 #RoadToOSCP
 </p>
 
 ----------------------------------------------
