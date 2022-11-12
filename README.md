@@ -25,7 +25,7 @@
   <b> PERFILES CTF: </b>
   
  <a href="https://app.hackthebox.com/users/386047" target="_blank"><img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/logo600.png" width="200px" height="60" target="_blank"></a>
-<a href="https://tryhackme.com/badge/96154"></a>
+[![tryhackme](<script src="https://tryhackme.com/badge/96154"></script>)][tryhackme]
 
 
 
