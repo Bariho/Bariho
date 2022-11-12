@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1BF700&width=900&lines=%F0%9F%91%8B%C2%A1BIENVENIDO+A+MI+GITHUB!;+GITHUB+DEDICADO+AL+HACKING!;ENCONTRARAS+DIFERENTES+RECURSOS+SOBRE+HACKING)](https://git.io/typing-svg)
-  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='60'>
+  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='90'>
 ----------------------------------------------
 
 <p align = "left">
