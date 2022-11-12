@@ -33,7 +33,7 @@ eJPT de eLeanSecurity.
   <b> PERFILES: </b>
   
  <a href="https://app.hackthebox.com/profile/386047" target="_blank"><img src="http://www.hackthebox.eu/badge/image/386047" alt="Hack The Box">
- <a href="https://tryhackme.com/p/ErMechas01" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/ErMechas01.png" alt="TryHackMe" height="60px">
+ <a href="https://tryhackme.com/p/ErMechas01" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/ErMechas01.png" alt="TryHackMe" height="40px">
 
 
 
