@@ -17,6 +17,7 @@ eJPT de eLeanSecurity.
   
  - 📕 AUTODIDACTA
  - 📚 #RoadToOSCP
+ - 🔎 En Busqueda de Trabajo
 </p>
 
 ----------------------------------------------
