@@ -1,5 +1,5 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1BF700&width=900&lines=%F0%9F%91%8B%C2%A1BIENVENIDO+A+MI+GITHUB!;+GITHUB+DEDICADO+AL+HACKING!;ENCONTRARAS+DIFERENTES+RECURSOS+SOBRE+HACKING)](https://git.io/typing-svg)-->
-<img src='https://github.com/ARMoreno99/ARMoreno99/blob/main/github.gif'>
+<img src='[https://github.com/ARMoreno99/ARMoreno99/blob/main/github.gif](https://github.com/ARMoreno99/ARMoreno99/blob/main/github.gif)'>
 <img align='right' src='https://github.com/ARMoreno99/ARMoreno99/blob/main/octocat-anime.gif' width='90'>
 ----------------------------------------------
 
