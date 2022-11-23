@@ -1,6 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1BF700&width=900&lines=%F0%9F%91%8B%C2%A1BIENVENIDO+A+MI+GITHUB!;+GITHUB+DEDICADO+AL+HACKING!;ENCONTRARAS+DIFERENTES+RECURSOS+SOBRE+HACKING)](https://git.io/typing-svg)-->
-<img src='https://github.com/ARMoreno99/ARMoreno99/blob/main/github.gif' width='1200' height='100'>
-<img align='right' src='https://github.com/ARMoreno99/ARMoreno99/blob/main/octocat-anime.gif' width='90'>
+<img src='https://github.com/ARMoreno99/ARMoreno99/blob/main/images/github.gif' width='1200' height='100'>
+<img align='right' src='https://github.com/ARMoreno99/ARMoreno99/blob/main/images/octocat-anime.gif' width='90'>
 
 ----------------------------------------------
 
@@ -25,8 +25,8 @@ eJPT de eLeanSecurity.
 <p>
   <b>CERTIFICACIONES:</b>
   <p align = "center">
-   <a href="https://verified.elearnsecurity.com/certificates/dfa3ee21-f393-4468-a990-7ab417ff72c9" target="_blanK"><img  src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="90px" height="60px" />
-  <!--<a href="" target="_blanK"><img  src="https://github.com/ARMoreno99/ARMoreno99/blob/main/image.png" width="85px" height="65px" /> -->
+   <a href="https://verified.elearnsecurity.com/certificates/dfa3ee21-f393-4468-a990-7ab417ff72c9" target="_blanK"><img  src="https://github.com/ARMoreno99/ARMoreno99/blob/main/imges/eJPT.png" width="90px" height="60px" />
+  <a href="" target="_blanK"><img  src="https://github.com/ARMoreno99/ARMoreno99/blob/main/images/image.png" width="85px" height="65px" /> 
 </p> 
 
 ----------------------------------------------
