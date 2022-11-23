@@ -24,7 +24,7 @@ eJPT de eLeanSecurity.
 
 <p>
   <b>CERTIFICACIONES:</b>
-  <p align = "left">
+  <p align = "center">
    <a href="https://verified.elearnsecurity.com/certificates/dfa3ee21-f393-4468-a990-7ab417ff72c9" target="_blanK"><img  src="https://github.com/ARMoreno99/ARMoreno99/blob/main/eJPT.png" width="90px" height="60px" />
   <!--<a href="" target="_blanK"><img  src="https://github.com/ARMoreno99/ARMoreno99/blob/main/image.png" width="85px" height="65px" /> -->
 </p> 
