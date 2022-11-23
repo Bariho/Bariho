@@ -35,6 +35,8 @@ eJPT de eLeanSecurity.
  <a href="https://app.hackthebox.com/profile/386047" target="_blank"><img src="http://www.hackthebox.eu/badge/image/386047" alt="Hack The Box">
  <a href="https://tryhackme.com/p/ErMechas01" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/ErMechas01.png" alt="TryHackMe" height="52px">
    </p>
+ <p align = "right">
+ <img src='https://github.com/ARMoreno99/ARMoreno99/blob/main/images/puntero.png'
 
  ----------------------------------------------
   
