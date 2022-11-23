@@ -6,6 +6,7 @@
 
 <p align = "left">
   <b> SOBRE MI: </b>
+  
 Soy un chico al que le apasiona la tecnología, empecé desde muy joven con la informática, desde hace unos años descubrí el hacking y el pentesting, desde entonces llevo aprendiendo y practicando para poder llegar a obtener un trabajo como pentester y poder seguir ampliando mi conocimiento y desarrollándome profesional y personalmente. 
   
 Tengo conocimientos en manejo de Linux (Parrot,Kali), en herramientas dedicadas a la 
