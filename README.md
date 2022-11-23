@@ -36,7 +36,7 @@ eJPT de eLeanSecurity.
  <a href="https://tryhackme.com/p/ErMechas01" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/ErMechas01.png" alt="TryHackMe" height="52px">
    </p>
  <p align = "right">
- <img src='https://github.com/ARMoreno99/ARMoreno99/blob/main/images/clipper.gif'>
+ <img src="https://github.com/ARMoreno99/ARMoreno99/blob/main/images/clipper.gif" width="90px" height="60px">
 
  ----------------------------------------------
   
