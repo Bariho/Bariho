@@ -4,31 +4,13 @@
 
 ----------------------------------------------
 
-<p align = "left">
-  <b> SOBRE MI: </b>
-  
-Soy un chico al que le apasiona la tecnología, empecé desde muy joven con la informática, desde hace unos años descubrí el hacking y el pentesting, desde entonces llevo aprendiendo y practicando para poder llegar a obtener un trabajo como pentester y poder seguir ampliando mi conocimiento y desarrollándome profesional y personalmente. 
-  
-Tengo conocimientos en manejo de Linux (Parrot,Kali), en herramientas dedicadas a la 
-enumeración, explotación y post-explotación, vectores de ataques, escaladas de 
-privilegios. 
-  
-A día de hoy sigo aprendiendo en plataformas como Hack The Box, para lograr mi 
-siguiente objetivo, sacarme el OSCP. Recientemente me examiné de la certificación 
-eJPT de eLeanSecurity. 
-  
- - 📕 AUTODIDACTA
- - 📚 #RoadToOSCP
- - 🔎 En Busqueda de Trabajo
-</p>
-
 ----------------------------------------------
 
 <p>
   <b>CERTIFICACIONES:</b>
   <p align = "center">
    <a href="https://verified.elearnsecurity.com/certificates/dfa3ee21-f393-4468-a990-7ab417ff72c9" target="_blanK"><img  src="https://github.com/ARMoreno99/ARMoreno99/blob/main/images/eJPT.png" width="90px" height="60px" />
-  <!-- <a href="" target="_blanK"><img  src="https://github.com/ARMoreno99/ARMoreno99/blob/main/images/image.png" width="85px" height="65px" /> -->
+  <a href="" target="_blanK"><img  src="https://github.com/ARMoreno99/ARMoreno99/blob/main/images/image.png" width="85px" height="65px" />
 </p> 
 
 ----------------------------------------------
